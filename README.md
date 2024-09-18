@@ -24,3 +24,17 @@ Predictive Analytics: The system will use predictive analytics to estimate the r
 Eligibility Alerts: Automatic alerts for undertrial prisoners who have served half their prescribed sentence.​
 
 AI-Driven Legal Insights: AI models that analyze case-specific data for more accurate recommendations.​
+
+---
+
+### Backend
+
+1. Go to the `backend` folder.
+2. Install dependencies: `npm install`
+3. Start the server: `node app.js`
+
+### Frontend
+
+1. Go to the `frontend` folder.
+2. Install dependencies: `npm install`
+3. Start the React app: `npm start`
